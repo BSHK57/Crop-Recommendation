@@ -18,7 +18,7 @@ A smart crop recommendation system built using machine learning and deployed wit
 crop-recommendation/ ├── Streamlit.py # Main app file (entry point) ├── Crop_Models.ipynb # Jupyter notebook with model comparisons ├── Crop_recommendation.csv # Dataset used for training and prediction ├── requirements.txt # Required packages ├── naive_bayes_crop_model.pkl # Trained ML model (Naive Bayes) ├── label_encoder.pkl # Label encoder for crop labels └── README.md # This file
 
 ---
-
+---
 ## 🚀 Live Demo
 
 Try the app live here:  
